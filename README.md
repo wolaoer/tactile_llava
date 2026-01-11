@@ -1,9 +1,6 @@
 # tactile_llava
 
 
-```markdown
-# Tactile-Language LLaVA
-
 This repository explores tactile-language understanding by adapting the LLaVA
 multimodal framework to tactile inputs. The original visual encoder is replaced
 with a tactile encoder, enabling large language models to reason about tactile
